@@ -1,3 +1,5 @@
+migrated to new location: https://codeberg.org/shackspace/fucking_eyelaz0rz
+
 # FUCKING EYELAZ0RZ
 ## SYNOPSIS
 A collection of laser cutter templates and patterns used at shackspace
